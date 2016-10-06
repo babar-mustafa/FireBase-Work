@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "964465184895",
+    "firebase_url": "https://userauthentication-loginsignup.firebaseio.com",
+    "project_id": "userauthentication-loginsignup",
+    "storage_bucket": "userauthentication-loginsignup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964465184895:android:7dbbcb45b40f0150",
+        "android_client_info": {
+          "package_name": "com.example.babarmustafa.userauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964465184895-6atdj7nman0vk55pokfgep2jsijqsvd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYyaq1gdJDjs3KutsO9m8n3bBDGOoPy-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
