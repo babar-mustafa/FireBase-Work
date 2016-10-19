@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "735732897397",
+    "firebase_url": "https://firedatabase-55af8.firebaseio.com",
+    "project_id": "firedatabase-55af8",
+    "storage_bucket": "firedatabase-55af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735732897397:android:c1d882de6eaf4ec4",
+        "android_client_info": {
+          "package_name": "com.example.babarmustafa.fileuploading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735732897397-ldj0ar9hgki45plj0pq332qv4vrsd0rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz53r6Nuu2vTDMc7y7JSMN-Yc_2XekCS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
