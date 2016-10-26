@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_signup__form"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="10dp"
+    tools:context="com.example.babarmustafa.chatapplication.Signup_Form">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:padding="5dp"
+        android:hint="@string/user_name"
+        android:id="@+id/s_username"
+        android:background="@drawable/for_rounded_corners" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:padding="5dip"
+        android:layout_marginTop="10dp"
+        android:hint="@string/user_email"
+        android:id="@+id/s_useremail"
+        android:background="@drawable/for_rounded_corners" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:padding="5dip"
+        android:layout_marginTop="10dp"
+        android:hint="@string/user_password"
+        android:id="@+id/s_userpass"
+        android:background="@drawable/for_rounded_corners" />
+
+
+    <RadioGroup
+        android:id="@+id/radioSex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+      <TextView
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:text="@string/gender_text"/>
+
+        <RadioButton
+            android:id="@+id/radioMale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radio_male"
+            android:checked="true" />
+
+        <RadioButton
+            android:id="@+id/radioFemale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/radio_female" />
+
+    </RadioGroup>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/for_rounded_corners"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"
+        android:text="@string/button_signup"
+        android:id="@+id/signup_button"
+        />
+</LinearLayout>

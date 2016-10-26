@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="user_name">Enter The User Name</string>
+    <string name="user_email">Enter The Email</string>
+    <string name="user_password">Enter The Password</string>
+    <string name="button_signup">signup</string>
+    <string name="signup_text"> Not a user? Create a New Account</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="gender_text">Gender</string>
+    <string name="button_login">Login</string>
+    <string name="textmessage">Enter the message</string>
+    <string name="buttonsend">Send</string>
+
+
+</resources>
