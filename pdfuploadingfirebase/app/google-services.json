@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "604870013060",
+    "firebase_url": "https://bloging-app.firebaseio.com",
+    "project_id": "bloging-app",
+    "storage_bucket": "bloging-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604870013060:android:05d60f6cd53b896d",
+        "android_client_info": {
+          "package_name": "com.example.babarmustafa.pdfuploadingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604870013060-2kj358sa7f2itdv4en04eskvqqdon4nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
